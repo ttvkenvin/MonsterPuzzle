@@ -1,5 +1,5 @@
 
-![image]()
+![image](https://github.com/ttvkenvin/MonsterPuzzle/blob/master/Logo.png)
 # MonsterPuzzle
 
 Monsters eliminate the game, dragging the same 3 monsters together to eliminate.
